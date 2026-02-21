@@ -1,0 +1,5 @@
+{
+  "name": "每日存錢日記 (Daily Savings Diary)",
+  "description": "一個幫助你每天隨機抽取存錢金額並記錄心情的理財小工具。",
+  "requestFramePermissions": []
+}
